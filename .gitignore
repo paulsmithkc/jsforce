@@ -3,6 +3,7 @@
 *.gz
 
 results
+build
 
 .npmignore
 
@@ -36,3 +37,6 @@ lib-cov
 
 # tarball generated for publishing
 *.tgz
+
+# VS Code
+.vscode
