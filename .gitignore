@@ -40,3 +40,6 @@ lib-cov
 
 # VS Code
 .vscode
+
+# dotenv
+.env
