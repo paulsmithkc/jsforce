@@ -49,9 +49,6 @@
   "engines": {
     "node": ">=4.0"
   },
-  "bin": {
-    "jsforce": "./bin/jsforce"
-  },
   "dependencies": {
     "csv-parse": "^4.10.1",
     "csv-stringify": "^1.0.4",
