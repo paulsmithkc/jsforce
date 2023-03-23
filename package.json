@@ -1,5 +1,5 @@
 {
-  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
+  "author": "Paul Smith",
   "name": "jsforce-micro",
   "version": "0.0.1",
   "description": "Salesforce API Library for JavaScript",
