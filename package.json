@@ -39,11 +39,8 @@
   },
   "files": [
     "README.md",
-    "bower.json",
     "LICENSE",
     "package.json",
-    "bin",
-    "build",
     "lib",
     "core.js",
     "index.js"
