@@ -10,7 +10,7 @@
     "force.com",
     "database.com"
   ],
-  "homepage": "http://github.com/paulsmithkc/jsforce",
+  "homepage": "https://github.com/paulsmithkc/jsforce/blob/jsforce-micro/README.md",
   "repository": {
     "type": "git",
     "url": "git://github.com/paulsmithkc/jsforce.git"
@@ -19,7 +19,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/paulsmithkc/jsforce/raw/master/LICENSE"
+      "url": "http://github.com/paulsmithkc/jsforce/raw/jsforce-micro/LICENSE"
     }
   ],
   "main": "./index",
