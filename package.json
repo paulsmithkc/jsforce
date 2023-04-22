@@ -25,7 +25,7 @@
       "url": "http://github.com/paulsmithkc/jsforce/raw/jsforce-micro/LICENSE"
     }
   ],
-  "main": "./index",
+  "main": "./dist/jsforce.js",
   "scripts": {
     "reinstall": "npx rimraf --glob package-lock.json node_modules && npm i",
     "build": "npx tsup",
