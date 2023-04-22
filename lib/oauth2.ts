@@ -1,5 +1,4 @@
 import * as querystring from 'node:querystring';
-import * as  _ from 'lodash';
 import { Transport } from './transport';
 
 export interface OAuthOptions {
